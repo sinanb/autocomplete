@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AutoCompletionExample</string>
+    <string name="hint_text">Type a fruit name</string>
 </resources>
